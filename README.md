@@ -45,17 +45,6 @@ Backend .NET developer who turns business requirements into clean, reliable APIs
   <img src="./flow.svg" alt="Client to Controller to Service to Repository/UoW to SQL Server" width="100%" />
 </div>
 
-## 🔌 APIs I design
-
-Sample endpoints showing the REST conventions I follow: JWT auth, pagination, role-based access, and proper status codes.
-
-| Method | Endpoint | What it does | Status |
-|---|---|---|---|
-| `POST` | `/api/auth/login` | Authenticate and issue a JWT | `200` `401` |
-| `GET` | `/api/products?page=1&pageSize=12` | Filtered, paginated list | `200` |
-| `GET` | `/api/products/{id}` | Fetch a single item | `200` `404` |
-| `POST` | `/api/products` | Create (Admin only) | `201` `403` |
-| `DELETE` | `/api/products/{id}` | Remove (Admin only) | `204` |
 
 ## 🚀 Projects
 
