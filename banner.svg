@@ -6,39 +6,33 @@
   </defs>
   <rect x="2" y="2" width="996" height="296" rx="24" fill="#F8F3F1"/>
   <rect x="2" y="2" width="996" height="296" rx="24" fill="url(#dots)"/>
-  <rect x="2" y="2" width="996" height="296" rx="24" fill="none" stroke="#8B707B" stroke-width="3"/>
+  <rect x="2" y="2" width="996" height="296" rx="24" fill="none" stroke="#6F4F5C" stroke-width="3"/>
 
   <!-- shapes -->
-  <g>
-    <path d="M0 -27l6.2 15.6L22 -9l-12 11 3.4 16.6L0 11.2 -13.4 18.6 -10 2 -22 -9l15.8-2.4z" fill="#B86F86" stroke="#8B707B" stroke-width="2.5" stroke-linejoin="round" transform="translate(790 70) scale(1.5)">
-      <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -10; 0 0" dur="4s" repeatCount="indefinite"/>
-    </path>
-  </g>
-  <circle cx="945" cy="52" r="24" fill="#D6E2EB" stroke="#8B707B" stroke-width="2.5"/>
-  <path d="M700 252c8-14 14 14 22 0s14 14 22 0 14 14 22 0 14 14 22 0 14 14 18 0" fill="none" stroke="#8B707B" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M700 252c8-14 14 14 22 0s14 14 22 0 14 14 22 0 14 14 22 0 14 14 18 0" fill="none" stroke="#6F4F5C" stroke-width="3.5" stroke-linecap="round"/>
 
   <!-- badge -->
-  <circle cx="880" cy="170" r="60" fill="#B86F86" stroke="#8B707B" stroke-width="3"/>
+  <circle cx="880" cy="170" r="60" fill="#8E4A65" stroke="#6F4F5C" stroke-width="3"/>
   <circle cx="880" cy="170" r="48" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-dasharray="3 6" opacity=".8">
     <animateTransform attributeName="transform" type="rotate" from="0 880 170" to="360 880 170" dur="20s" repeatCount="indefinite"/>
   </circle>
   <text x="880" y="183" text-anchor="middle" font-family="Georgia, serif" font-weight="700" font-size="38" fill="#FFFFFF">SM</text>
 
   <!-- availability chip -->
-  <rect x="60" y="48" width="262" height="36" rx="18" fill="#D5E5DA" stroke="#8B707B" stroke-width="2"/>
+  <rect x="60" y="48" width="262" height="36" rx="18" fill="#D5E5DA" stroke="#6F4F5C" stroke-width="2"/>
   <circle cx="82" cy="66" r="5" fill="#397E5A">
     <animate attributeName="opacity" values="1;.3;1" dur="1.8s" repeatCount="indefinite"/>
   </circle>
-  <text x="96" y="71" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="14" fill="#382A31">Available for opportunities</text>
+  <text x="96" y="71" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="14" fill="#2E2128">Available for opportunities</text>
 
   <!-- name -->
-  <text x="60" y="150" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="68" fill="#382A31">Somaya Mohamed</text>
+  <text x="60" y="150" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="68" fill="#2E2128">Somaya Mohamed</text>
 
   <!-- role sticker -->
   <g transform="rotate(-1.5 60 196)">
-    <rect x="60" y="172" width="296" height="42" rx="10" fill="#EFE4C3" stroke="#8B707B" stroke-width="2"/>
-    <text x="78" y="199" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="20" fill="#382A31">Backend .NET Developer</text>
+    <rect x="60" y="172" width="296" height="42" rx="10" fill="#EFE4C3" stroke="#6F4F5C" stroke-width="2"/>
+    <text x="78" y="199" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="20" fill="#2E2128">Backend .NET Developer</text>
   </g>
 
-  <text x="60" y="256" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#715C65">Reliable APIs and backend systems with ASP.NET Core, C# and SQL Server.</text>
+  <text x="60" y="256" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#634E58">Reliable APIs and backend systems with ASP.NET Core, C# and SQL Server.</text>
 </svg>

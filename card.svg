@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 340" width="560" height="340" role="img" aria-label="GET /somaya-mohamed 200 OK">
   <g transform="rotate(2 280 170)">
-    <rect x="36" y="36" width="500" height="290" rx="26" fill="#382A31"/>
-    <rect x="24" y="24" width="500" height="290" rx="26" fill="#EFE4C3" stroke="#8B707B" stroke-width="3"/>
+    <rect x="36" y="36" width="500" height="290" rx="26" fill="#2E2128"/>
+    <rect x="24" y="24" width="500" height="290" rx="26" fill="#EFE4C3" stroke="#6F4F5C" stroke-width="3"/>
 
     <!-- chips -->
     <g transform="rotate(-2 150 60)">
-      <rect x="48" y="44" width="214" height="32" rx="16" fill="#F8F3F1" stroke="#8B707B" stroke-width="2"/>
-      <text x="64" y="65" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="14" fill="#382A31">GET /somaya-mohamed</text>
+      <rect x="48" y="44" width="214" height="32" rx="16" fill="#F8F3F1" stroke="#6F4F5C" stroke-width="2"/>
+      <text x="64" y="65" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="14" fill="#2E2128">GET /somaya-mohamed</text>
     </g>
-    <rect x="410" y="44" width="98" height="32" rx="16" fill="#D5E5DA" stroke="#8B707B" stroke-width="2"/>
+    <rect x="410" y="44" width="98" height="32" rx="16" fill="#D5E5DA" stroke="#6F4F5C" stroke-width="2"/>
     <circle cx="430" cy="60" r="5" fill="#397E5A">
       <animate attributeName="opacity" values="1;.3;1" dur="1.8s" repeatCount="indefinite"/>
     </circle>
-    <text x="442" y="65" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="14" fill="#382A31">200 OK</text>
+    <text x="442" y="65" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="14" fill="#2E2128">200 OK</text>
 
     <!-- json -->
     <g font-family="Consolas, 'Courier New', monospace" font-size="15.5">
-      <text x="48" y="124" fill="#382A31">{</text>
-      <text x="72" y="154"><tspan fill="#715C65">"role"</tspan><tspan fill="#382A31">: </tspan><tspan fill="#B86F86" font-weight="700">"Backend .NET Developer"</tspan><tspan fill="#382A31">,</tspan></text>
-      <text x="72" y="184"><tspan fill="#715C65">"experience"</tspan><tspan fill="#382A31">: </tspan><tspan fill="#B86F86" font-weight="700">"6+ months, automotive ERP"</tspan><tspan fill="#382A31">,</tspan></text>
-      <text x="72" y="214"><tspan fill="#715C65">"stack"</tspan><tspan fill="#382A31">: [</tspan><tspan fill="#B86F86" font-weight="700">"C#"</tspan><tspan fill="#382A31">, </tspan><tspan fill="#B86F86" font-weight="700">"ASP.NET Core"</tspan><tspan fill="#382A31">, </tspan><tspan fill="#B86F86" font-weight="700">"SQL Server"</tspan><tspan fill="#382A31">],</tspan></text>
-      <text x="72" y="244"><tspan fill="#715C65">"focus"</tspan><tspan fill="#382A31">: [</tspan><tspan fill="#B86F86" font-weight="700">"REST APIs"</tspan><tspan fill="#382A31">, </tspan><tspan fill="#B86F86" font-weight="700">"Clean Architecture"</tspan><tspan fill="#382A31">],</tspan></text>
-      <text x="72" y="274"><tspan fill="#715C65">"status"</tspan><tspan fill="#382A31">: </tspan><tspan fill="#397E5A" font-weight="700">"open_to_work"<animate attributeName="opacity" values="1;.55;1" dur="2s" repeatCount="indefinite"/></tspan></text>
-      <text x="48" y="302" fill="#382A31">}</text>
+      <text x="48" y="124" fill="#2E2128">{</text>
+      <text x="72" y="154"><tspan fill="#634E58">"role"</tspan><tspan fill="#2E2128">: </tspan><tspan fill="#8E4A65" font-weight="700">"Backend .NET Developer"</tspan><tspan fill="#2E2128">,</tspan></text>
+      <text x="72" y="184"><tspan fill="#634E58">"experience"</tspan><tspan fill="#2E2128">: </tspan><tspan fill="#8E4A65" font-weight="700">"6+ months, automotive ERP"</tspan><tspan fill="#2E2128">,</tspan></text>
+      <text x="72" y="214"><tspan fill="#634E58">"stack"</tspan><tspan fill="#2E2128">: [</tspan><tspan fill="#8E4A65" font-weight="700">"C#"</tspan><tspan fill="#2E2128">, </tspan><tspan fill="#8E4A65" font-weight="700">"ASP.NET Core"</tspan><tspan fill="#2E2128">, </tspan><tspan fill="#8E4A65" font-weight="700">"SQL Server"</tspan><tspan fill="#2E2128">],</tspan></text>
+      <text x="72" y="244"><tspan fill="#634E58">"focus"</tspan><tspan fill="#2E2128">: [</tspan><tspan fill="#8E4A65" font-weight="700">"REST APIs"</tspan><tspan fill="#2E2128">, </tspan><tspan fill="#8E4A65" font-weight="700">"Clean Architecture"</tspan><tspan fill="#2E2128">],</tspan></text>
+      <text x="72" y="274"><tspan fill="#634E58">"status"</tspan><tspan fill="#2E2128">: </tspan><tspan fill="#397E5A" font-weight="700">"open_to_work"<animate attributeName="opacity" values="1;.55;1" dur="2s" repeatCount="indefinite"/></tspan></text>
+      <text x="48" y="302" fill="#2E2128">}</text>
     </g>
   </g>
 </svg>
