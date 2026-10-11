@@ -8,14 +8,14 @@
 <img align="right" src="./card.svg" alt="GET /somaya-mohamed 200 OK" width="46%" />
 
 ### 👋 Hi, I'm Somaya
-
+ 
 Backend .NET developer who turns business requirements into clean, reliable APIs that are easy to read, maintain, and grow.
-
-🧩 What I build: RESTful APIs and backend systems with ASP.NET Core, C#, and SQL Server
-🧱 How I build: Clean Architecture, Dependency Injection, Repository Pattern, and Unit of Work
-🔐 Security & data: JWT authentication, role-based authorization, and well-designed relational databases with EF Core
-🔍 How I work: I start from the business problem, break it down, and ship a practical solution
-🎓 B.Sc. Computer Science & IT, Tanta University (2026) · 📍 Tanta, Egypt
+ 
+- 🧩 **What I build:** RESTful APIs and backend systems with ASP.NET Core, C#, and SQL Server
+- 🧱 **How I build:** Clean Architecture, Dependency Injection, Repository Pattern, and Unit of Work
+- 🔐 **Security & data:** JWT authentication, role-based authorization, and well-designed relational databases with EF Core
+- 🔍 **How I work:** I start from the business problem, break it down, and ship a practical solution
+- 🎓 B.Sc. Computer Science &amp; IT, Tanta University (2026) · 📍 Tanta, Egypt
 
 [![CV](https://img.shields.io/badge/Download%20CV-B86F86?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/13EmapTT6m4tXmksVzVbQocvIqv2pxplP/view?usp=drive_link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-382A31?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somaya-mohamed)
