@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 130" width="1000" height="130" role="img" aria-label="6+ months experience, 4+ projects, 170+ API endpoints, 4 certifications">
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="rotate(-1.5 125 60)">
+      <rect x="20" y="22" width="220" height="92" rx="16" fill="#382A31"/>
+      <rect x="14" y="16" width="220" height="92" rx="16" fill="#EFE4C3" stroke="#8B707B" stroke-width="3"/>
+      <text x="34" y="68" font-family="Georgia, serif" font-weight="700" font-size="42" fill="#382A31">6+</text>
+      <text x="100" y="58" font-size="13" font-weight="600" fill="#715C65">Months of professional</text>
+      <text x="100" y="76" font-size="13" font-weight="600" fill="#715C65">experience</text>
+    </g>
+    <g transform="rotate(1.2 375 60)">
+      <rect x="270" y="22" width="220" height="92" rx="16" fill="#382A31"/>
+      <rect x="264" y="16" width="220" height="92" rx="16" fill="#D5E5DA" stroke="#8B707B" stroke-width="3"/>
+      <text x="284" y="68" font-family="Georgia, serif" font-weight="700" font-size="42" fill="#382A31">4+</text>
+      <text x="350" y="58" font-size="13" font-weight="600" fill="#715C65">Backend projects</text>
+      <text x="350" y="76" font-size="13" font-weight="600" fill="#715C65">shipped</text>
+    </g>
+    <g transform="rotate(-.8 625 60)">
+      <rect x="520" y="22" width="220" height="92" rx="16" fill="#382A31"/>
+      <rect x="514" y="16" width="220" height="92" rx="16" fill="#EED9CB" stroke="#8B707B" stroke-width="3"/>
+      <text x="534" y="68" font-family="Georgia, serif" font-weight="700" font-size="42" fill="#382A31">170+</text>
+      <text x="636" y="58" font-size="13" font-weight="600" fill="#715C65">API endpoints</text>
+      <text x="636" y="76" font-size="13" font-weight="600" fill="#715C65">built</text>
+    </g>
+    <g transform="rotate(1 875 60)">
+      <rect x="770" y="22" width="220" height="92" rx="16" fill="#382A31"/>
+      <rect x="764" y="16" width="220" height="92" rx="16" fill="#D6E2EB" stroke="#8B707B" stroke-width="3"/>
+      <text x="784" y="68" font-family="Georgia, serif" font-weight="700" font-size="42" fill="#382A31">4</text>
+      <text x="826" y="58" font-size="13" font-weight="600" fill="#715C65">Technical</text>
+      <text x="826" y="76" font-size="13" font-weight="600" fill="#715C65">certifications</text>
+    </g>
+  </g>
+</svg>

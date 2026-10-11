@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 56" width="1000" height="56" role="img" aria-label="C#, ASP.NET Core, SQL Server, EF Core, REST APIs, Clean Architecture, JWT">
+  <defs>
+    <clipPath id="c"><rect x="0" y="0" width="1000" height="56"/></clipPath>
+  </defs>
+  <rect x="0" y="0" width="1000" height="56" fill="#B86F86"/>
+  <rect x="0" y="1.5" width="1000" height="0" fill="none"/>
+  <line x1="0" y1="1.5" x2="1000" y2="1.5" stroke="#8B707B" stroke-width="3"/>
+  <line x1="0" y1="54.5" x2="1000" y2="54.5" stroke="#8B707B" stroke-width="3"/>
+  <g clip-path="url(#c)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1100 0" dur="26s" repeatCount="indefinite"/>
+      <text x="0" y="36" xml:space="preserve" textLength="1100" lengthAdjust="spacing" font-family="Georgia, serif" font-weight="700" font-size="21" fill="#FFFFFF">C#   ✦   ASP.NET Core   ✦   SQL Server   ✦   EF Core   ✦   REST APIs   ✦   Clean Architecture   ✦   JWT   ✦   </text>
+      <text x="1100" y="36" xml:space="preserve" textLength="1100" lengthAdjust="spacing" font-family="Georgia, serif" font-weight="700" font-size="21" fill="#FFFFFF">C#   ✦   ASP.NET Core   ✦   SQL Server   ✦   EF Core   ✦   REST APIs   ✦   Clean Architecture   ✦   JWT   ✦   </text>
+    </g>
+  </g>
+</svg>
